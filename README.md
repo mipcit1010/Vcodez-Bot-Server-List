@@ -16,3 +16,11 @@
 <a>- You cannot sell it.</a><br>
 <a>- Don't touch this part on footer;</a><br>
 <img width="512" src="https://img.devsforum.net/tr/img/f1B3C3.png">
+
+
+Latest Update, 
++ adding more commands!
++ Bug fixes
++ Arc.io Hosting (you will not get paid) just that your web will be faster!
+
++ Leave `Masterious` Credit!
